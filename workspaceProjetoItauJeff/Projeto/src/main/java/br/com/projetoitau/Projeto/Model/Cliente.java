@@ -11,7 +11,7 @@ import javax.persistence.Table;
 
 // Na anotaçao abaixo diz que a classe conta sera armazenada e recuperada na tabela
 @Entity
-@Table(name="tbcliente")
+@Table(name="projetocliente")
 public class Cliente {
 	
 	@Id

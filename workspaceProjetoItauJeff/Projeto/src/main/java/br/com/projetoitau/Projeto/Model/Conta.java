@@ -13,7 +13,7 @@ import javax.persistence.Table;
 
 // Na anotação abaixo diz que a classe conta será recuperada na tabela
 @Entity
-@Table(name="tbconta")
+@Table(name="projetoconta")
 public class Conta {
 	
 	// Indica que o atributo indica a chave primária
